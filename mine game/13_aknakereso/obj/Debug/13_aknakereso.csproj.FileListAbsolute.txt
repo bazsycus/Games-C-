@@ -1,0 +1,10 @@
+C:\Users\Leleke\Desktop\GepInfoKurzus\13_aknakereso\13_aknakereso\bin\Debug\13_aknakereso.exe.config
+C:\Users\Leleke\Desktop\GepInfoKurzus\13_aknakereso\13_aknakereso\bin\Debug\13_aknakereso.exe
+C:\Users\Leleke\Desktop\GepInfoKurzus\13_aknakereso\13_aknakereso\bin\Debug\13_aknakereso.pdb
+C:\Users\Leleke\Desktop\GepInfoKurzus\13_aknakereso\13_aknakereso\obj\Debug\13_aknakereso.csprojAssemblyReference.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\13_aknakereso\13_aknakereso\obj\Debug\_13_aknakereso.Form1.resources
+C:\Users\Leleke\Desktop\GepInfoKurzus\13_aknakereso\13_aknakereso\obj\Debug\_13_aknakereso.Properties.Resources.resources
+C:\Users\Leleke\Desktop\GepInfoKurzus\13_aknakereso\13_aknakereso\obj\Debug\13_aknakereso.csproj.GenerateResource.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\13_aknakereso\13_aknakereso\obj\Debug\13_aknakereso.csproj.CoreCompileInputs.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\13_aknakereso\13_aknakereso\obj\Debug\13_aknakereso.exe
+C:\Users\Leleke\Desktop\GepInfoKurzus\13_aknakereso\13_aknakereso\obj\Debug\13_aknakereso.pdb
