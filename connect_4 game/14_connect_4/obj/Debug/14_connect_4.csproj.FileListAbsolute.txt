@@ -1,0 +1,10 @@
+C:\Users\Leleke\Desktop\GepInfoKurzus\14_connect_4\14_connect_4\bin\Debug\14_connect_4.exe.config
+C:\Users\Leleke\Desktop\GepInfoKurzus\14_connect_4\14_connect_4\bin\Debug\14_connect_4.exe
+C:\Users\Leleke\Desktop\GepInfoKurzus\14_connect_4\14_connect_4\bin\Debug\14_connect_4.pdb
+C:\Users\Leleke\Desktop\GepInfoKurzus\14_connect_4\14_connect_4\obj\Debug\14_connect_4.csprojAssemblyReference.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\14_connect_4\14_connect_4\obj\Debug\_14_connect_4.Form1.resources
+C:\Users\Leleke\Desktop\GepInfoKurzus\14_connect_4\14_connect_4\obj\Debug\_14_connect_4.Properties.Resources.resources
+C:\Users\Leleke\Desktop\GepInfoKurzus\14_connect_4\14_connect_4\obj\Debug\14_connect_4.csproj.GenerateResource.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\14_connect_4\14_connect_4\obj\Debug\14_connect_4.csproj.CoreCompileInputs.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\14_connect_4\14_connect_4\obj\Debug\14_connect_4.exe
+C:\Users\Leleke\Desktop\GepInfoKurzus\14_connect_4\14_connect_4\obj\Debug\14_connect_4.pdb
