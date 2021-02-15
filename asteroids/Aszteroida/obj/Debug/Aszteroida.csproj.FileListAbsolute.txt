@@ -1,0 +1,10 @@
+C:\Users\Leleke\Desktop\GepInfoKurzus\Aszteroida\Aszteroida\bin\Debug\Aszteroida.exe.config
+C:\Users\Leleke\Desktop\GepInfoKurzus\Aszteroida\Aszteroida\bin\Debug\Aszteroida.exe
+C:\Users\Leleke\Desktop\GepInfoKurzus\Aszteroida\Aszteroida\bin\Debug\Aszteroida.pdb
+C:\Users\Leleke\Desktop\GepInfoKurzus\Aszteroida\Aszteroida\obj\Debug\Aszteroida.csprojAssemblyReference.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\Aszteroida\Aszteroida\obj\Debug\Aszteroida.Form1.resources
+C:\Users\Leleke\Desktop\GepInfoKurzus\Aszteroida\Aszteroida\obj\Debug\Aszteroida.Properties.Resources.resources
+C:\Users\Leleke\Desktop\GepInfoKurzus\Aszteroida\Aszteroida\obj\Debug\Aszteroida.csproj.GenerateResource.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\Aszteroida\Aszteroida\obj\Debug\Aszteroida.csproj.CoreCompileInputs.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\Aszteroida\Aszteroida\obj\Debug\Aszteroida.exe
+C:\Users\Leleke\Desktop\GepInfoKurzus\Aszteroida\Aszteroida\obj\Debug\Aszteroida.pdb
