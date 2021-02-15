@@ -1,0 +1,10 @@
+C:\Users\Leleke\Desktop\GepInfoKurzus\15_pong_jatek\15_pong_jatek\bin\Debug\15_pong_jatek.exe.config
+C:\Users\Leleke\Desktop\GepInfoKurzus\15_pong_jatek\15_pong_jatek\bin\Debug\15_pong_jatek.exe
+C:\Users\Leleke\Desktop\GepInfoKurzus\15_pong_jatek\15_pong_jatek\bin\Debug\15_pong_jatek.pdb
+C:\Users\Leleke\Desktop\GepInfoKurzus\15_pong_jatek\15_pong_jatek\obj\Debug\15_pong_jatek.csprojAssemblyReference.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\15_pong_jatek\15_pong_jatek\obj\Debug\_15_pong_jatek.Form1.resources
+C:\Users\Leleke\Desktop\GepInfoKurzus\15_pong_jatek\15_pong_jatek\obj\Debug\_15_pong_jatek.Properties.Resources.resources
+C:\Users\Leleke\Desktop\GepInfoKurzus\15_pong_jatek\15_pong_jatek\obj\Debug\15_pong_jatek.csproj.GenerateResource.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\15_pong_jatek\15_pong_jatek\obj\Debug\15_pong_jatek.csproj.CoreCompileInputs.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\15_pong_jatek\15_pong_jatek\obj\Debug\15_pong_jatek.exe
+C:\Users\Leleke\Desktop\GepInfoKurzus\15_pong_jatek\15_pong_jatek\obj\Debug\15_pong_jatek.pdb
